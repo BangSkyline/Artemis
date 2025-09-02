@@ -8,8 +8,8 @@ Welcome to **Artemis**, a simple web app showcasing my favorite motorcycles as p
 Artemis is a Next.js-based web application that highlights a curated selection of motorcycles, styled with a cosmic vibe inspired by the *Cosmos* project. It’s a fun, lightweight project perfect for enthusiasts who want to explore or customize their own version.
 
 - **Tech Stack**: Next.js, TypeScript, `next/font` (Geist font)
-- **Features**: Displays a collection of motorcycles with a unique, space-inspired UI
-- **Language**: French mixed with English for a playful, bilingual touch
+- **Features**: Displays a collection of motorcycles with a unique, roman colors-inspired UI
+- **Language**: French mixed with English for a bilingual touch
 
 ---
 
@@ -59,16 +59,8 @@ Artemis is a Next.js-based web application that highlights a curated selection o
 
 ---
 
-## 📚 Learn More
-This project is built with [Next.js](https://nextjs.org/), a powerful React framework. To dive deeper, check out these resources:
-- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and APIs.
-- [Next.js GitHub Repository](https://github.com/vercel/next.js) - Explore the source code and contribute.
-- [Geist Font](https://vercel.com/font) - Discover the font used for a modern, clean look.
-
----
-
 ## 🤝 Contributing
-Contributions are welcome! Want to add your favorite motorcycles or enhance the cosmic theme? Here’s how:
+Contributions are welcome! Want to add your favorite motorcycles or enhance the theme ? Here’s how:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-idea`).
 3. Make your changes and commit (`git commit -m "Add your feature"`).
