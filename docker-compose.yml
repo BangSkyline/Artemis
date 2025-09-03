@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+   artemis:
+    image: artemis:V1
+    container_name: Artemis
+    restart: unless-stopped
+    networks:
+      cosmos:
+        ipv4_address: 192.168.95.61
+
+networks:
+  cosmos:
+    external: true
+    name: cosmos
